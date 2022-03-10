@@ -1,0 +1,53 @@
+2022-03-10, 13:21:09 | ERROR:   SavePushed(app, event): User tried to save empty function.
+2022-03-10, 13:21:09 | INFO:    SavePushed(app, event): Function Function 1 saved succefully.
+2022-03-10, 13:21:09 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-03-10, 13:23:37 | INFO:    SpinnerValueChanged(app, event): Number of points was incremented to value: 1
+2022-03-10, 13:23:41 | INFO:    SpinnerValueChanged(app, event): Number of points was incremented to value: 2
+2022-03-10, 13:23:43 | INFO:    SpinnerValueChanged(app, event): Number of points was decremented to value: 1
+2022-03-10, 13:23:45 | INFO:    SpinnerValueChanged(app, event): Number of points was decremented to value: 0
+2022-03-10, 13:23:46 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:24:15 | INFO:    App prompt reset succesfully.
+2022-03-10, 13:24:15 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:24:15 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-03-10, 13:24:16 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-10, 13:24:16 | INFO:    ImportDataButtonPushed(app, event): Data imported successfully.
+2022-03-10, 13:24:35 | INFO:    SavePushed(app, event): Function Function 1 overwrited succefully.
+2022-03-10, 13:24:35 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-03-10, 13:25:02 | INFO:    App prompt reset succesfully.
+2022-03-10, 13:25:02 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:25:02 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-03-10, 13:25:02 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-10, 13:25:02 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 2
+2022-03-10, 13:25:06 | INFO:    App prompt reset succesfully.
+2022-03-10, 13:25:06 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:25:06 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-03-10, 13:25:06 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-10, 13:25:06 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 5
+2022-03-10, 13:25:12 | INFO:    App prompt reset succesfully.
+2022-03-10, 13:25:12 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:25:12 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-03-10, 13:26:05 | INFO:    App prompt reset succesfully.
+2022-03-10, 13:26:05 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:26:05 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-03-10, 13:26:05 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-10, 13:26:05 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 1
+2022-03-10, 13:27:07 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:27:07 | INFO:    NextButtonPushed(app, event): New function initialized seccesfully.
+2022-03-10, 13:27:27 | INFO:    App prompt reset succesfully.
+2022-03-10, 13:27:27 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:27:27 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-03-10, 13:27:27 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-10, 13:27:27 | INFO:    ImportDataButtonPushed(app, event): Data imported successfully.
+2022-03-10, 13:27:51 | INFO:    App prompt reset succesfully.
+2022-03-10, 13:27:51 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:27:51 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-03-10, 13:27:51 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-10, 13:27:51 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 2
+2022-03-10, 13:43:28 | INFO:    ---[ SESSION STARTED ]---
+2022-03-10, 13:43:35 | ERROR:   SavePushed(app, event): User tried to save empty function.
+2022-03-10, 13:43:48 | INFO:    App prompt reset succesfully.
+2022-03-10, 13:43:48 | INFO:    Axes was cleared sucesfully.
+2022-03-10, 13:43:48 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-03-10, 13:43:48 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-10, 13:43:48 | INFO:    ImportDataButtonPushed(app, event): Data imported successfully.
+2022-03-10, 13:44:26 | INFO:    ---[ SESSION ENDED ]---

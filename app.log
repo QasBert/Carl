@@ -898,3 +898,24 @@
 2022-03-10, 22:59:41 | WARNING: RefreshPointsButton(app, event): Number of points is set to zero - nothing to plot
 2022-03-10, 22:59:41 | INFO:    DeletePushed(app, event): Function Function 1 was deleted successfully.
 2022-03-10, 22:59:55 | INFO:    ---[ SESSION ENDED ]---
+2022-03-24, 09:15:37 | INFO:    ---[ SESSION STARTED ]---
+2022-03-24, 09:16:15 | INFO:    App prompt reset succesfully.
+2022-03-24, 09:16:15 | INFO:    Axes was cleared sucesfully.
+2022-03-24, 09:16:15 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-03-24, 09:16:16 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-24, 09:16:16 | INFO:    ImportDataButtonPushed(app, event): Data imported successfully.
+2022-03-24, 09:18:05 | INFO:    ---[ SESSION ENDED ]---
+2022-03-24, 17:21:18 | INFO:    ---[ SESSION STARTED ]---
+2022-03-24, 17:22:17 | INFO:    App prompt reset succesfully.
+2022-03-24, 17:22:17 | INFO:    Axes was cleared sucesfully.
+2022-03-24, 17:22:17 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-03-24, 17:22:17 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-24, 17:22:17 | INFO:    ImportDataButtonPushed(app, event): Data imported successfully.
+2022-03-24, 17:38:41 | INFO:    ---[ SESSION ENDED ]---
+2022-03-25, 14:57:25 | INFO:    ---[ SESSION STARTED ]---
+2022-03-25, 14:58:44 | INFO:    App prompt reset succesfully.
+2022-03-25, 14:58:44 | INFO:    Axes was cleared sucesfully.
+2022-03-25, 14:58:44 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-03-25, 14:58:45 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-03-25, 14:58:45 | INFO:    ImportDataButtonPushed(app, event): Data imported successfully.
+2022-03-28, 15:08:21 | INFO:    ---[ SESSION ENDED ]---

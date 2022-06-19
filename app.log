@@ -2241,3 +2241,276 @@
 2022-05-05, 17:18:21 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
 2022-05-05, 17:18:21 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 5
 2022-05-05, 17:36:33 | INFO:    ---[ SESSION ENDED ]---
+2022-05-10, 14:33:43 | INFO:    ---[ SESSION STARTED ]---
+2022-05-10, 14:34:14 | INFO:    Point_ValueChanged(app, event): Number of points was incremented to value: 1
+2022-05-10, 14:34:14 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:34:14 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:34:14 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-05-10, 14:34:15 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:34:16 | INFO:    Point_ValueChanged(app, event): Number of points was incremented to value: 2
+2022-05-10, 14:34:16 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:34:16 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:34:16 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-05-10, 14:34:16 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:34:21 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:34:27 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:34:27 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:34:27 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-05-10, 14:34:27 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:34:27 | INFO:    Import_Pushed(app, event): Data imported successfully.
+2022-05-10, 14:34:33 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:34:33 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:34:33 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-05-10, 14:34:33 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:34:33 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 2
+2022-05-10, 14:34:38 | INFO:    Save_Pushed(app, event): Function Function 1 saved succefully.
+2022-05-10, 14:34:38 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:34:51 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:34:51 | INFO:    NextButtonPushed(app, event): New function iinitialized seccesfully.
+2022-05-10, 14:35:02 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:02 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:02 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:02 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:02 | INFO:    Import_Pushed(app, event): Data imported successfully.
+2022-05-10, 14:35:08 | INFO:    Save_Pushed(app, event): Function New function saved succefully.
+2022-05-10, 14:35:08 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:17 | INFO:    Previous_Pushed(app, event): Function Function 1 loaded succesfully.
+2022-05-10, 14:35:17 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:17 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:17 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:17 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:25 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:25 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:25 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:25 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:25 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:25 | INFO:    Delete_Pushed(app, event): Function Function 1 was deleted successfully.
+2022-05-10, 14:35:30 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:30 | INFO:    NextButtonPushed(app, event): New function iinitialized seccesfully.
+2022-05-10, 14:35:37 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:37 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:37 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:37 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:37 | INFO:    Import_Pushed(app, event): Data imported successfully.
+2022-05-10, 14:35:41 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:41 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:41 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:41 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:41 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 4
+2022-05-10, 14:35:47 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show only curve.'
+2022-05-10, 14:35:47 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:47 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:47 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:47 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:50 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show only points.'
+2022-05-10, 14:35:50 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:50 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:50 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:50 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:52 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show curve & points.'
+2022-05-10, 14:35:52 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:52 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:52 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:52 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:54 | INFO:    FunctionsButtonGroupSelectionChanged(app, event): Global show f option has changed to 'show all functions'.
+2022-05-10, 14:35:54 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:54 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:54 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:54 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:57 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show only curve.'
+2022-05-10, 14:35:57 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:57 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:57 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:57 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:35:59 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show only points.'
+2022-05-10, 14:35:59 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:35:59 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:35:59 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:35:59 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:36:07 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show curve & points.'
+2022-05-10, 14:36:07 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:36:07 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:36:07 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:36:07 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:36:18 | INFO:    Save_Pushed(app, event): Function New function 1 saved succefully.
+2022-05-10, 14:36:18 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:36:26 | WARNING: Import_Pushed(app, event): File selection for import data was canceled by user.
+2022-05-10, 14:36:45 | INFO:    FunctionsButtonGroupSelectionChanged(app, event): Global show f option has changed to 'show only current function'.
+2022-05-10, 14:36:45 | INFO:    App prompt reset succesfully.
+2022-05-10, 14:36:45 | INFO:    Axes was cleared sucesfully.
+2022-05-10, 14:36:45 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-05-10, 14:36:45 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-05-10, 14:54:39 | INFO:    ---[ SESSION ENDED ]---
+2022-06-19, 02:15:40 | INFO:    ---[ SESSION STARTED ]---
+2022-06-19, 02:16:51 | INFO:    ---[ SESSION ENDED ]---
+2022-06-19, 02:18:37 | INFO:    ---[ SESSION STARTED ]---
+2022-06-19, 02:19:11 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:19:11 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:19:11 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-06-19, 02:19:11 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:19:11 | INFO:    Import_Pushed(app, event): Data imported successfully.
+2022-06-19, 02:19:46 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:19:46 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:19:46 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-06-19, 02:19:46 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:19:53 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:19:53 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:19:53 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-06-19, 02:19:54 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:19:59 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:19:59 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:19:59 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-06-19, 02:19:59 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:19:59 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 2
+2022-06-19, 02:20:02 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:20:02 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:20:02 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-06-19, 02:20:02 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:20:02 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 5
+2022-06-19, 02:20:08 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:20:08 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:20:08 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-06-19, 02:20:08 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:20:08 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 1
+2022-06-19, 02:20:18 | INFO:    Save_Pushed(app, event): Function 1st degree saved succefully.
+2022-06-19, 02:20:18 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:20:30 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:20:30 | INFO:    NextButtonPushed(app, event): New function iinitialized seccesfully.
+2022-06-19, 02:20:33 | INFO:    Point_ValueChanged(app, event): Number of points was incremented to value: 1
+2022-06-19, 02:20:33 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:20:33 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:20:33 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:20:33 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:20:33 | INFO:    Point_ValueChanged(app, event): Number of points was incremented to value: 2
+2022-06-19, 02:20:33 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:20:33 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:20:33 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:20:33 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:20:33 | INFO:    Point_ValueChanged(app, event): Number of points was incremented to value: 3
+2022-06-19, 02:20:33 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:20:33 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:20:33 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:20:33 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:21:00 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:21:00 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:21:00 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:21:00 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:21:04 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:21:04 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:21:04 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:21:04 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:21:04 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 2
+2022-06-19, 02:21:17 | INFO:    Save_Pushed(app, event): Function 2nd degree saved succefully.
+2022-06-19, 02:21:17 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:21:21 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:21:21 | INFO:    NextButtonPushed(app, event): New function iinitialized seccesfully.
+2022-06-19, 02:21:31 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:21:31 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:21:31 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:21:31 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:21:31 | INFO:    Import_Pushed(app, event): Data imported successfully.
+2022-06-19, 02:21:35 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:21:35 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:21:35 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:21:35 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:21:35 | INFO:    DegreeValuePushed(app, event): Regression degree changed to: 5
+2022-06-19, 02:21:46 | INFO:    Save_Pushed(app, event): Function 5th degree saved succefully.
+2022-06-19, 02:21:46 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:22:56 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show only curve.'
+2022-06-19, 02:22:56 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:22:56 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:22:56 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:22:56 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:22:59 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show only points.'
+2022-06-19, 02:22:59 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:22:59 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:22:59 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:22:59 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:23:01 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show curve & points.'
+2022-06-19, 02:23:01 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:23:02 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:23:02 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:23:02 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:23:03 | INFO:    FunctionsButtonGroupSelectionChanged(app, event): Global show f option has changed to 'show all functions'.
+2022-06-19, 02:23:03 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:23:03 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:23:03 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:23:03 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:23:07 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show only curve.'
+2022-06-19, 02:23:07 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:23:07 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:23:07 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:23:07 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:23:09 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show only points.'
+2022-06-19, 02:23:09 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:23:09 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:23:09 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:23:09 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:23:12 | INFO:    ShowSelectionCHanged(app, event): Show option changed to 'show curve & points.'
+2022-06-19, 02:23:12 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:23:12 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:23:12 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:23:12 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:23:14 | INFO:    FunctionsButtonGroupSelectionChanged(app, event): Global show f option has changed to 'show only current function'.
+2022-06-19, 02:23:14 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:23:14 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:23:14 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:23:14 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:23:19 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:23:20 | INFO:    NextButtonPushed(app, event): New function iinitialized seccesfully.
+2022-06-19, 02:23:22 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:23:22 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:23:22 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:23:22 | WARNING: RefreshPointsButton(app, event): Number of points is set to zero - nothing to plot
+2022-06-19, 02:23:33 | ERROR:   Save_Pushed(app, event): User tried to save empty function.
+2022-06-19, 02:24:14 | WARNING: DeletePush(app, event): Atempt to delete selected function failed due to the current function is unsaved.
+2022-06-19, 02:24:17 | INFO:    Previous_Pushed(app, event): Function 5th degree loaded succesfully.
+2022-06-19, 02:24:17 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:24:17 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:17 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:24:17 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:24:19 | INFO:    Previous_Pushed(app, event): Function 2nd degree loaded succesfully.
+2022-06-19, 02:24:19 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:24:19 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:19 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:24:19 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:24:28 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:28 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:24:28 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:28 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:24:28 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:24:28 | INFO:    Delete_Pushed(app, event): Function 2nd degree was deleted successfully.
+2022-06-19, 02:24:31 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:31 | INFO:    NextButtonPushed(app, event): New function iinitialized seccesfully.
+2022-06-19, 02:24:35 | INFO:    Previous_Pushed(app, event): Function 5th degree loaded succesfully.
+2022-06-19, 02:24:35 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:24:35 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:35 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:24:35 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:24:36 | INFO:    Previous_Pushed(app, event): Function 1st degree loaded succesfully.
+2022-06-19, 02:24:36 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:24:36 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:36 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:24:36 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:24:42 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:42 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:24:43 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:43 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:24:43 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:24:43 | INFO:    Delete_Pushed(app, event): Function 1st degree was deleted successfully.
+2022-06-19, 02:24:50 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:50 | INFO:    NextButtonPushed(app, event): New function iinitialized seccesfully.
+2022-06-19, 02:24:52 | INFO:    Previous_Pushed(app, event): Function 5th degree loaded succesfully.
+2022-06-19, 02:24:52 | INFO:    App prompt reset succesfully.
+2022-06-19, 02:24:52 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 02:24:52 | INFO:    RefreshFunctionList(app): Function list was refreshed successfully.
+2022-06-19, 02:24:52 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 02:28:08 | INFO:    ---[ SESSION ENDED ]---
+2022-06-19, 14:32:12 | INFO:    ---[ SESSION STARTED ]---
+2022-06-19, 14:32:30 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 14:32:33 | INFO:    App prompt reset succesfully.
+2022-06-19, 14:32:33 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 14:32:33 | INFO:    RefreshFunctionList(app): Function database is empty. Nothing to show.
+2022-06-19, 14:32:33 | INFO:    PlotCurrentFunction(app): Current function plotted succesfully.
+2022-06-19, 14:32:50 | INFO:    Axes was cleared sucesfully.
+2022-06-19, 14:38:05 | INFO:    ---[ SESSION ENDED ]---

@@ -1,14 +1,14 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration file="C:\Users\admin\Documents\GitHub\polynomial_approximation\Carl.prj" location="C:\Users\admin\Documents\GitHub\polynomial_approximation" name="Carl" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration file="C:\Users\jakub\OneDrive\OneNote\GitHub\Carl\Carl.prj" location="C:\Users\jakub\OneDrive\OneNote\GitHub\Carl" name="Carl" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>Carl</param.appname>
     <param.icon />
     <param.icons />
-    <param.version>0.1</param.version>
+    <param.version>1.0</param.version>
     <param.authnamewatermark>Jakub Špicar</param.authnamewatermark>
     <param.email>jakub.spicar@outlook.com</param.email>
     <param.company>ČVUT FEL</param.company>
-    <param.summary>Beta version - only main components are working</param.summary>
-    <param.description>App is functionable ecxept export options, logging, deleting functions from database</param.description>
+    <param.summary>First release - for evaluation</param.summary>
+    <param.description />
     <param.screenshot>${PROJECT_ROOT}\carl_logo-removebg.png</param.screenshot>
     <param.guid />
     <param.installpath.string>\ČVUT FEL\Carl\</param.installpath.string>
@@ -41,12 +41,12 @@
 	 
  Input Arguments 
 	 -?  print help on how to use the application 
-	 input arguments 
- Description 
- 	 App is functionable ecxept export options, logging, deleting functions from database</param.help.text>
+	 input arguments</param.help.text>
     <unset>
       <param.icon />
       <param.icons />
+      <param.version />
+      <param.description />
       <param.guid />
       <param.installpath.string />
       <param.installpath.combo />
@@ -77,17 +77,26 @@
     <fileset.main>
       <file>${PROJECT_ROOT}\application.mlapp</file>
     </fileset.main>
-    <fileset.resources />
-    <fileset.package />
-    <fileset.depfun />
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\export_to_excel_template.xlsx</file>
+    </fileset.resources>
+    <fileset.package>
+      <file>${PROJECT_ROOT}\app.log</file>
+      <file>${PROJECT_ROOT}\export_to_excel_template.xlsx</file>
+      <file>${PROJECT_ROOT}\Vitek.xlsx</file>
+    </fileset.package>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\app.log</file>
+      <file>${PROJECT_ROOT}\Vitek.xlsx</file>
+    </fileset.depfun>
     <build-deliverables>
-      <file location="${PROJECT_ROOT}\Carl\for_testing" name="readme.txt" optional="true">C:\Users\admin\Documents\GitHub\polynomial_approximation\Carl\for_testing\readme.txt</file>
-      <file location="${PROJECT_ROOT}\Carl\for_testing" name="splash.png" optional="false">C:\Users\admin\Documents\GitHub\polynomial_approximation\Carl\for_testing\splash.png</file>
-      <file location="${PROJECT_ROOT}\Carl\for_testing" name="Carl.exe" optional="false">C:\Users\admin\Documents\GitHub\polynomial_approximation\Carl\for_testing\Carl.exe</file>
+      <file location="${PROJECT_ROOT}\Carl\for_testing" name="Carl.exe" optional="false">C:\Users\jakub\OneDrive\OneNote\GitHub\Carl\Carl\for_testing\Carl.exe</file>
+      <file location="${PROJECT_ROOT}\Carl\for_testing" name="readme.txt" optional="true">C:\Users\jakub\OneDrive\OneNote\GitHub\Carl\Carl\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\Carl\for_testing" name="splash.png" optional="false">C:\Users\jakub\OneDrive\OneNote\GitHub\Carl\Carl\for_testing\splash.png</file>
     </build-deliverables>
     <workflow />
     <matlab>
-      <root>C:\Program Files\MATLAB\R2021b</root>
+      <root>C:\Applications\Matlab\r2022a</root>
       <toolboxes>
         <toolbox name="matlabcoder" />
       </toolboxes>

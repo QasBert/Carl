@@ -36,7 +36,7 @@ Exapmle:
 ### 3. Database
 - Box, that lists all function in database
 ### 4. Export
-- Coming soon...
+- Export current function to Excel
 ### 5. Data controller
 - **Import data** button let user import data from Excel file (read "Importing data from excel" above for more information)
 - **Number of points** spinner let user set set number of points of dataset; It's autoupdated when importing data
